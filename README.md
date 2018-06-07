@@ -1,2 +1,2 @@
-# Helloworld
- in this field is use to get all details from customers table
+# Helloworld 
+ this field is use to display all customer name and detail in a table
